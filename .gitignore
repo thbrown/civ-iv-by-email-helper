@@ -1,0 +1,7 @@
+*.Civ4SavedGame
+civ_iv_config
+.project
+.classpath
+.settings
+/bin
+mail.jar
